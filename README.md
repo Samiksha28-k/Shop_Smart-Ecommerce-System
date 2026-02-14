@@ -19,26 +19,27 @@ Clustering Techniques
 
 Implemented:
 
-KMeans Clustering
+-KMeans Clustering
 
-Agglomerative Clustering
+-Agglomerative Clustering
 
 Used:
 
-Elbow Method
+-Elbow Method
 
-Silhouette Score
+-Silhouette Score
 
 Optimal clusters found: 4
 
 📁 Project Structure
-
+```
 Shop_Smart-Ecommerce-System/
 │
 ├── ShopSmart.ipynb
 ├── customers.csv
 └── README.md
-
+```
 👩‍💻 Author
+
 Samiksha Sengar
 Aspiring Data Scientist | Machine Learning Enthusiast
